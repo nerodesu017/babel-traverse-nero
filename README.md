@@ -110,3 +110,5 @@ function b() {
 ### I'm not sure how you'd unset the nero_skip property
 ### I guess you can only generate and parse again, good for my use case
 ### Submit pull reqs and I'll try and review them
+
+### Oh, and don't forget, this also f*#ks up the scope renaming and all that
